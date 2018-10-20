@@ -1,2 +1,2 @@
 # nickskicks
-a personal blog written in react and graphQL
+a personal sneaker/men's fashion blog written in with React and Node
